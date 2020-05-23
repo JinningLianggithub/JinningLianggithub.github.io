@@ -12,7 +12,7 @@ li {
 ### First author papers
 
 <ol>
-<li><b>Wu</b>, Dave&#769;, Tacchella, Lotz 2019 <a href="https://ui.adsabs.harvard.edu/abs/2019arXiv191106330W/abstract">arXiv</a>: Photometric properties of reionization-epoch galaxies in the Simba simulations</li>
+<li><b>Wu</b>, Dave&#769;, Tacchella, Lotz 2019 <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5636W/abstract">MNRAS</a>: Photometric properties of reionization-epoch galaxies in the Simba simulations</li>
 
 <li><b>Wu</b>, McQuinn et al. 2019 <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.3177W/abstract">MNRAS</a>: Imprints of temperature fluctuations on the z&#126;5 Lyman-&alpha; forest: a view from radiation-hydrodynamic simulations of reionization</li>
 
