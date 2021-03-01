@@ -182,6 +182,8 @@ exclude:
   - README.md
   - Vagrantfile
 
+exclude: [vendor/bundle]
+
 # prose.io config
 prose:
   rooturl: '_posts'
