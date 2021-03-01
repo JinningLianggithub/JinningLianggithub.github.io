@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-Here is an incomplete list of my favorite ballets. Sometimes I can't help playing those music in my head so I use them as background music for coding.
+Here is an incomplete list of my favorite ballets.  Sometimes I can't help playing those music in my head so I use them as background music for coding.  (Follow my instagram for more ballet stuff)
 
 [Giselle](https://www.youtube.com/watch?v=cqOm922Fhx8)  
 [Paquita](https://www.youtube.com/watch?v=aK3HRdrwvxc)  
