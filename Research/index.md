@@ -5,6 +5,8 @@ title: ""
 
 ## Projects
 
+* [FRBs as a probe of CGM](FRB_CGM/)
+
 * [Non-parametric halo biasing model](NonParam_Lag_bias/)
 
 * [Pop-III reionization and the CMB](PopIII_CMB/)
