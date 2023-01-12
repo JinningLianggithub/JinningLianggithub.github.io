@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Xiaohan Wu
-subtitle: PhD student at Harvard-Smithsonian Center for Astrophysics
+subtitle: Postdoctoral Fellow at Canadian Institute of Theoretical Astrophysics
 ---
 
 I am a postdoc fellow at the Canadian Institute of Theoretical Astrophysics, originally from Beijing.  I studied reionization and the intergalactic medium (IGM) during my PhD at Harvard, but I am extending my research into the circumgalactic medium (CGM). My main focus now is to explore fast radio bursts (FRB) as a probe of the CGM, as well as measuring the CGM using the Sunyaev-Zeldovich effect of the cosmic microwave background (CMB).  As a theorist who has been running simulations and performing analytic calculations, I spend half of my time now on dealing with real observational data and comparing them with theoretical models.  Check out my [research](/Research/) page and my [GitHub](https://github.com/xiaohanzai) profile!
