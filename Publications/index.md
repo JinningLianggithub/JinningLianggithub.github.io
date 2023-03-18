@@ -18,7 +18,7 @@ li {
 
 <li><b>Jinning Liang</b>, E. Gjergo & X. Fan 2022 submitted to MNRAS</a>: Assessing stellar yields in Galaxy chemical evolution: benchmark on observational stellar abundance patterns</li>
 
-<li>H. Liu (co-first author), <b>Jinning Liang<b> (co-first author) & J. Jia 2022 <a href="https://ui.adsabs.harvard.edu/abs/2022CQGra..39s5013L/abstract">CQG</a>: Deflection and Gravitational lensing of null and timelike signals in the Kiselev black hole spacetime in the weak field limit</li>
+<li>H. Liu (co-first author), <b>Jinning Liang</b> (co-first author) & J. Jia 2022 <a href="https://ui.adsabs.harvard.edu/abs/2022CQGra..39s5013L/abstract">CQG</a>: Deflection and Gravitational lensing of null and timelike signals in the Kiselev black hole spacetime in the weak field limit</li>
 
 </ol>
 
