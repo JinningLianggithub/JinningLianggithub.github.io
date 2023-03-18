@@ -6,12 +6,12 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
-Googlescholar:
+googlescholar:
   name: "Google Scholar"
   baseURL: "https://scholar.google.com/"
   icon: "fa-google-scholar"
 
-Orcid:
+orcid:
   name: "Orcid"
   baseURL: "https://orcid.org/"
   icon: "fa-orcid"
