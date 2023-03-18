@@ -69,8 +69,8 @@ author:
 social-network-links:
   #rss: False
   email: "jinning_liang@whu.edu.cn"
-  googlescholar: "https://scholar.google.com/citations?user=1prsaO4AAAAJ&hl=zh-CN"
-  orcid: "https://orcid.org/0000-0001-8405-2921"
+  googlescholar: "citations?user=1prsaO4AAAAJ&hl=zh-CN"
+  orcid: "0000-0001-8405-2921"
   #github: xiaohanzai
 
 # Select which share links to show in posts
