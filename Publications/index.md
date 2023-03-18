@@ -12,7 +12,7 @@ li {
 ### First author papers
 
 <ol>
-<li><b>Jinning Liang</b>, H.J. Mo et al.; 2022 in preparation</a>:  The Dynamics and Structure of Massive Galaxies in Cosmological Simulation</li>
+<li><b>Jinning Liang</b>, H.J. Mo et al. 2022 in preparation</a>:  The Dynamics and Structure of Massive Galaxies in Cosmological Simulation</li>
 
 <li><b>Jinning Liang</b>, Fangzhou Jiang et al. 2023 Ready to be submitted to ApJ</a>: Constrain the Dark Matter Distribution of NGC5846-UDG1 Using its Globular Cluster Population</li>
 
