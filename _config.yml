@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Xiaohan's website
+title: Jinning Liang's website
 
 # Short description of your site
-description: Xiaohan Wu's personal website
+description: Jinning Liang's personal website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -23,12 +23,12 @@ navbar-links:
   Home: "/"
   Research: "/Research/"
   Publications: "/Publications/"
-  CV: "https://www.overleaf.com/read/vtssmtpwrmjn"
-  Personal: "/Personal/"
+  Talk: "/Talk/"
+  CV: "/files/CV.Liang.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/sloth.png"
+avatar: "/img/avatar.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -60,16 +60,18 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Xiaohan Wu
+  name: Jinning Liang
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "xiaohan.wu@cfa.harvard.edu"
-  github: xiaohanzai
+  #rss: False
+  email: "jinning_liang@whu.edu.cn"
+  googlescholar: "https://scholar.google.com/citations?user=1prsaO4AAAAJ&hl=zh-CN"
+  orcid: "https://orcid.org/0000-0001-8405-2921"
+  #github: xiaohanzai
 
 # Select which share links to show in posts
 share-links-active:
@@ -79,7 +81,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "xiaohanzai.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "xiaohanzai.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
