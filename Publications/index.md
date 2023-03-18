@@ -14,7 +14,7 @@ li {
 <ol>
 <li><b>Jinning Liang</b>, H.J. Mo et al. 2022 in preparation:  The Dynamics and Structure of Massive Galaxies in Cosmological Simulation</li>
 
-<li><b>Jinning Liang</b>, Fangzhou Jiang et al. 2023 Ready to be submitted to ApJ: Constrain the Dark Matter Distribution of NGC5846-UDG1 Using its Globular Cluster Population</li>
+<li><b>Jinning Liang</b>, Fangzhou Jiang et al. 2023 Ready to be submitted to <a href="https://www.overleaf.com/read/bqtjcsgqjdcv">ApJ</a>: Constrain the Dark Matter Distribution of NGC5846-UDG1 Using its Globular Cluster Population</li>
 
 <li><b>Jinning Liang</b>, E. Gjergo & X. Fan 2022 submitted to MNRAS: Assessing stellar yields in Galaxy chemical evolution: benchmark on observational stellar abundance patterns</li>
 

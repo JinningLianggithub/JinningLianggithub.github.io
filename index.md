@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <font size=5>Jinning Liang (梁晋宁)</font>
+title: <font size=10>Jinning Liang (梁晋宁)</font>
 #subtitle: Postdoctoral Fellow at Canadian Institute of Theoretical Astrophysics
 ---
 
