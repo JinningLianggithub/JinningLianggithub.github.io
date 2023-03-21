@@ -14,4 +14,4 @@ To do that, I developed a semi-analytical model based on its progenitor SatGen c
 
 {% include image.html url="model.png" alt="See Fig.1 of my paper." description="Fig. 1: A schematic flowchart that summarizes all the components of my model." %}
 
-{% include image.html url="comparison.png" alt="See Fig.8 of my paper." description="Fig. 2: NGC5846-UDG1, with its DM halo constrained with the GC statistics, in comparison with the empirical scaling relations." width="500px" %}
+{% include image.html url="comparison.png" alt="See Fig.8 of my paper." description="Fig. 2: NGC5846-UDG1, with its DM halo constrained with the GC statistics, in comparison with the empirical scaling relations." width="300px" %}
