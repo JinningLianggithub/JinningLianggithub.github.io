@@ -11,6 +11,6 @@ Gravitational lensing is a phenomenon that occurs when the path of light is bent
 
 In my work, I used a perturbative method proposed before to get analytics like deflection angle, apparent angle, time delay, etc, for Kiselev black hole spacetime, which is important for cosmology. First, I calculated the first integral to get deflection angle for two cases (asymptotically flat case and non-asymptotically flat case) and analyze their relations to parameters in the spacetime, which can seen in Fig.1 and Fig.2. Then I solved the lensing equation to get impact parameters and used it to get apparent angles and time delay. I found that the relations to parameters are different for two cases. 
 
-{% include image.html url="case1.png" alt="See Fig.1 of my paper." description="Fig. 1: Deflection angle as a function of impact parameter and two parameters in the spacetime for asymptotically flat case. The value of parameters can be seen in paper" %}
+{% include image.html url="case1.png" alt="See Fig.1 of my paper." description="Fig. 1: Deflection angle as a function of impact parameter and two parameters in the spacetime for asymptotically flat case. The value of parameters can be seen in paper." %}
 
-{% include image.html url="case2.png" alt="See Fig.2 of my paper." description="Fig. 2:  Similar to Fig. 1 but for non-asymptotically flat case" %}
+{% include image.html url="case2.png" alt="See Fig.2 of my paper." description="Fig. 2:  Similar to Fig. 1 but for non-asymptotically flat case." %}
