@@ -15,3 +15,5 @@ data is inconsistent with a scatter resulting from averaging runs across yield p
 {% include image.html url="comparison.png" alt="See Fig.1 of my paper." description="Fig. 1: A schematic flowchart that summarizes all the components of my model." %}
 
 {% include image.html url="piechart.png" alt="See Fig.8 of my paper." description="Fig. 2: NGC5846-UDG1, with its DM halo constrained with the GC statistics, in comparison with the empirical scaling relations." %}
+
+I have also joined GalCEM (GALactic Chemical Evolution Model) collaboration and provide nearly all abundance ratio data we need. One can see it from [ADS link](https://ui.adsabs.harvard.edu/abs/2023ApJS..264...44G/abstract)It's a user-friendly detailed, and modular, one-zone GCE model. In the future, I will use this model to explore many interesting things such as parameter space in GalCEM, galaxy cluster enrichment by galaxy outflow, etc.
