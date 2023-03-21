@@ -10,8 +10,6 @@ li {
 </style>
 
 My published papers can be seen in [ORCID](https://orcid.org/0000-0001-8405-2921), [Google Scholar](https://scholar.google.com/citations?user=1prsaO4AAAAJ&hl=zh-CN), or [ADS library](https://ui.adsabs.harvard.edu/public-libraries/zs0p82o5RdGYGU6_i5PWjQ) 
-[MNRAS](/../files/Yields_NuPyCEE.pdf)
-[ApJ](/../files/UDGpaper.pdf)
 
 
 ### First author papers
