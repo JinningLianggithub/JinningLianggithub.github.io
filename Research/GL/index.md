@@ -3,17 +3,14 @@ layout: page
 title: ""
 ---
 
-## Galaxy Chemical Evolution
+## Gravitational lensing computation
 
-[Paper preview](/../files/Yields_NuPyCEE.pdf)
+[ADS link](https://ui.adsabs.harvard.edu/abs/2022CQGra..39s5013L/abstract)
 
-At the beginning of the universe, there were only H, He, and small amounts of Li. The first stars formed from these elements and began to fuse them into heavier elements like C, N, and O. As these stars evolved and eventually exploded they dispersed these heavier elements into the surrounding gas and dust, enriching it with new elements. Over time, subsequent generations of stars formed from this enriched gas, incorporating even more heavy elements into their composition. As galaxies continue to evolve and merge, the chemical composition of their stars and gas mix and become more complex. 
+Gravitational lensing is a phenomenon that occurs when the path of light is bent by the gravitational field. It was first proposed by Albert Einstein in his theory of general relativity in 1915. However, it was not until the 1970s that the first gravitational lens was discovered. Gravitational lensing can be divided into three categories: strong lensing, weak lensing and micro lensing. It has allowed astronomers to study the distribution of dark matter in galaxies and clusters of galaxies, which cannot be directly observed. Gravitational lensing has also been used to measure the expansion rate of the universe and to study the properties of dark energy. However, the analytics for gravitational lensing is hard to get with complicated metrics. One solution is using some perturbative methods.
 
-However, there are many uncertain process in galaxy chemical evolution. Stellar yields is one of them due to the lack of understanding and observational data for massive stars. The differences in stellar yields for 12 elements can be seen in Fig.1. To explore the uncertainty in different stellar yields, compare and show their difference, I ran fixed Milky-Way-like parametrization of NuPyCEE simulation with stellar yields as the only variable. To explain the scatter existed in stellar abundance especially in halo stars, I grouped the yields by their physical process and test if yield combinations match data scatter and standard deviation. I defined criteria that estimate whether an element is in agreement with the data, or if the model overestimates or underestimates it in various metallicity bins. The summary for the criteria can be seen in Fig.2. Then I used the criteria to explore he statistical properties spanned by such yields. I found the differences and commonalities among yield sets and found the scatter of the abundance
-data is inconsistent with a scatter resulting from averaging runs across yield prescriptions.
+In my work, I used a perturbative method proposed before to get analytics like deflection angle, apparent angle, time delay, etc, for Kiselev black hole spacetime, which is important for cosmology.
 
-{% include image.html url="comparison.png" alt="See Fig.1 of my paper." description="Fig. 1: Logarithmic mass-fraction (defined as the yield mass over ejecta mass) of the returned yields for 12 elements at solar metallicity, as a function of logarithmic stellar mass. The "shift" label on the upper right indicates, wherever necessary, the factor by which the mass-fractions have been shifted in order to fit the same y-axis range. The legends for different stellar yields on the first row follow the description in the paper" %}
+{% include image.html url="case1.png" alt="See Fig.1 of my paper." description="Fig. 1: " %}
 
-{% include image.html url="piechart.png" alt="See Fig.17 of my paper." description="Fig. 2: For each of Group A, B, and C, the summary of the Judgement criteria (Median, standard deviation, and scatter) for the four metallicity bins. Details can be seen in the paper." %}
-
-I have also joined GalCEM (GALactic Chemical Evolution Model) collaboration and provide nearly all abundance ratio data we need. One can see it from [ADS link](https://ui.adsabs.harvard.edu/abs/2023ApJS..264...44G/abstract)It's a user-friendly detailed, and modular, one-zone GCE model. In the future, I will use this model to explore many interesting things such as parameter space in GalCEM, galaxy cluster enrichment by galaxy outflow, etc.
+{% include image.html url="case2.png" alt="See Fig.2 of my paper." description="Fig. 2:  " %}
