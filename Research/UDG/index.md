@@ -12,4 +12,4 @@ To do that, I developed a semi-analytical model based on its progenitor SatGen c
 
 {% include image.html url="model.png" alt="Whoops! See Fig.4 of my paper." description="Fig. 1: A schematic flowchart that summarizes all the components of my model." %}
 
-{% include image.html url="Comparison.png" alt="Whoops! See Fig.4 of my paper." description="Fig. 1: NGC5846-UDG1, with its DM halo constrained with the GC statistics, in comparison with the empirical scaling relations of GC number versus virial mass, stellar mass versus virial mass, and halo concentration versus virial mass. The orange/green circles with error bars represent the medians with the 16th and 84th percentiles, assuming NFW/Burkert halo.%}
+{% include image.html url="Comparison.png" alt="Whoops! See Fig.4 of my paper." description="Fig. 1: NGC5846-UDG1, with its DM halo constrained with the GC statistics, in comparison with the empirical scaling relations of GC number versus virial mass, stellar mass versus virial mass, and halo concentration versus virial mass. The orange/green circles with error bars represent the medians with the 16th and 84th percentiles, assuming NFW/Burkert halo."%}
