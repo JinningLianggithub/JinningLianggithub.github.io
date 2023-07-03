@@ -15,7 +15,6 @@ My published papers can be seen in [ORCID](https://orcid.org/0000-0001-8405-2921
 ### First author papers
 
 <ol>
-<li><b>Jinning Liang</b>, H.J. Mo et al. 2022 in preparation:  The Dynamics and Structure of Massive Galaxies in Cosmological Simulation</li>
 
 <li><b>Jinning Liang</b>, Fangzhou Jiang et al. 2023 submitted to <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230414431L/abstract">ApJ</a>: Constrain the Dark Matter Distribution of NGC5846-UDG1 Using its Globular Cluster Population</li>
 
