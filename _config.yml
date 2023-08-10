@@ -68,9 +68,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   #rss: False
-  email: "jinning_liang@whu.edu.cn"
+  email: "Jinning.liang@durham.ac.uk"
   #googlescholar: "citations?user=1prsaO4AAAAJ&hl=zh-CN"
-  #orcid: "0000-0001-8405-2921"
+  orcid: "0000-0001-8405-2921"
   #github: xiaohanzai
 
 # Select which share links to show in posts
