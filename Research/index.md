@@ -5,7 +5,7 @@ title: ""
 
 ## Projects
 
-* [Dynamical structure of massive galaxies](Dy_massive/)
+* [Connection between galaxy morphology and dark-matter halo structure](gal_halo/)
 
 * [Constraining dark matter properties of ultra-diffuse galaxies](UDG/)
 
