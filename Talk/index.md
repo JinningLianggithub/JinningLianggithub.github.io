@@ -6,6 +6,8 @@ title: ""
 ## Talks & Conferences
 
 <ol>
+<li><b>New morphological decomposition method and varying circularity threshold</b>, Workshop talk, 20th Durham-Edinburgh eXtragalatic (DEX) Workshop, Durham, 2023</li>
+
 <li><b>Dark matter properties and its connection with galaxy morphology</b>, Invited seminar talk, Department of Astronomy, Shanghai Jiaotong University, 2023</li>
 
 <li><b>Connection between galaxy morphology and dark-matter halo structure</b>, Invited seminar talk, Shanghai Astronomical Observatory, 2023</li>
