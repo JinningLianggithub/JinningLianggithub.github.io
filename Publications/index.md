@@ -16,7 +16,7 @@ My published papers can be seen in [ORCID](https://orcid.org/0000-0001-8405-2921
 
 <ol>
 
-<li><b>Jinning Liang</b>, Fangzhou Jiang et al. 2023 submitted to <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230414431L/abstract">ApJ</a>: Constrain the Dark Matter Distribution of NGC5846-UDG1 Using its Globular Cluster Population</li>
+<li><b>Jinning Liang</b>, Fangzhou Jiang et al. 2023 <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230414431L/abstract">ApJ</a>: Constrain the Dark Matter Distribution of NGC5846-UDG1 Using its Globular Cluster Population</li>
 
 <li><b>Jinning Liang</b>, E. Gjergo & X. Fan 2022  <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522..863L/abstract">MNRAS</a>: Assessing stellar yields in Galaxy chemical evolution: benchmark on observational stellar abundance patterns</li>
 
